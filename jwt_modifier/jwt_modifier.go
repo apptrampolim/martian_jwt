@@ -1,4 +1,4 @@
-package martian_jwt
+package jwt_modifier
 
 import (
 	"encoding/json"
