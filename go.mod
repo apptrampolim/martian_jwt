@@ -1,4 +1,4 @@
-module martian-jwt.go
+module martian_jwt.go
 
 go 1.17
 
