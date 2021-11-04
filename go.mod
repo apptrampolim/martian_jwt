@@ -1,4 +1,4 @@
-module martian_jwt.go
+module github.com/apptrampolim/martian_jwt
 
 go 1.17
 
